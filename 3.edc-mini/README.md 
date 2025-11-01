@@ -1,0 +1,2 @@
+Minimal FastAPI + Postgres EDC: subjects/visits/CRF + automatic audit logging + pseudo e-sign.
+Goal: 80%+ test coverage on main flows, /healthz, and documented Part11/Annex11 “covered / not covered”.
